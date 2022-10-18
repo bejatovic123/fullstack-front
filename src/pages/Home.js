@@ -19,7 +19,7 @@ export default function Home() {
         <table className='table border shadow'>
           <thead>
             <tr>
-              <th scope='col'>#</th>
+              <th scope='col'>B/B</th>
               <th scope='col'>Name</th>
               <th scope='col'>UserName</th>
               <th scope='col'>Email</th>
