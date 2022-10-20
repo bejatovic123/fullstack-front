@@ -9,9 +9,9 @@ export default function Navbar() {
       '
       >
         <div className='container-fluid'>
-          <a className='navbar-brand' href='#/'>
+          <Link className='navbar-brand' to={'/'}>
             Full Stack Application
-          </a>
+          </Link>
           <button
             className='navbar-toggler'
             type='button'
